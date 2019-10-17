@@ -51,6 +51,7 @@ const expectedModules = new Set([
   'NativeModule internal/options',
   'NativeModule internal/priority_queue',
   'NativeModule internal/process/execution',
+  'NativeModule internal/process/main_args',
   'NativeModule internal/process/per_thread',
   'NativeModule internal/process/promises',
   'NativeModule internal/process/task_queues',
