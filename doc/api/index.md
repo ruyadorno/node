@@ -10,6 +10,7 @@
 
 <div class="line"></div>
 
+* [Argument Parser](arg_parser.html)
 * [Assertion Testing](assert.html)
 * [Async Hooks](async_hooks.html)
 * [Buffer](buffer.html)
